@@ -1,2 +1,3 @@
-# java-learning
-Learning Java in general
+# Learning Java
+
+Learning Java in general.
