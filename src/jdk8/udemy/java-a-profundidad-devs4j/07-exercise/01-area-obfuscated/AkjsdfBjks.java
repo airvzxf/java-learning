@@ -20,7 +20,7 @@ public class AkjsdfBjks {
     // Triangle
     int _____ = 7;
     int __________ = 5;
-    double _____________ = _____ * _____ / 2.0;
+    double _____________ = _____ * __________ / 2.0;
     System.out.println("_____________ area: " + _____________);
   }
 }
