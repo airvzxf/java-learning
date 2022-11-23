@@ -1,6 +1,6 @@
 public class AkjsdfBjks {
 
-  public static void main (String args []) {
+  public static void main(String[] args) {
     // Square
     int _$ = 5;
     int $ = _$ * _$;

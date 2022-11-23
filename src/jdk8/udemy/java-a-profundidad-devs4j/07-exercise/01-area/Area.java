@@ -1,6 +1,6 @@
 public class Area {
 
-  public static void main (String args []) {
+  public static void main(String[] args) {
     // Square
     int squareHeight = 5;
     int squareArea = squareHeight * squareHeight;

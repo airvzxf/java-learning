@@ -4,6 +4,6 @@
  * add another class.
 */
 
-public class One {}
-class Two {}
-class Three {}
+public class CommentOne {}
+class CommentTwo {}
+class CommentThree {}
